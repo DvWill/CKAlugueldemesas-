@@ -4,10 +4,10 @@ Landing page estática para a CK Aluguel de mesas e cadeiras, em Cidade Ocidenta
 
 ## Publicação
 
-O repositório está preparado para GitHub Pages a partir da raiz da branch `main`.
+O GitHub Pages está configurado para publicar a raiz da branch `main` em https://dvwill.github.io/CKAlugueldemesas-/.
 
 - Página: `index.html`
 - Imagens: `img/`
 - Sem etapa de build ou dependências de instalação.
 
-Após o primeiro push, ative em **Settings → Pages** a opção **Deploy from a branch**, selecionando `main` e `/(root)`.
+Cada novo push para `main` atualiza a publicação automaticamente.
